@@ -1,6 +1,6 @@
 import requests
 
-url = 'https://ipinfo.io'
+url = 'http://ipinfo.io'
 username = 'username'
 password = 'password'
 
